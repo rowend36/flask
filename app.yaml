@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: rowend36-flask
+package: rowend36/flask
